@@ -2,7 +2,7 @@
   "keys": [
     {
       "kty": "oct",
-      "kid": "hack",
+      "kid": "key-1",
       "k": "ZmFrZV9zZWNyZXRfa2V5",
       "alg": "HS256",
       "use": "sig"
