@@ -3,7 +3,7 @@
     {
       "kty": "oct",
       "kid": "hack",
-      "k": "ZmFrZV9zZWNyZXRfa2V5", // base64url-encoded "fake_secret_key"
+      "k": "ZmFrZV9zZWNyZXRfa2V5",
       "alg": "HS256"
     }
   ]
