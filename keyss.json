@@ -4,7 +4,8 @@
       "kty": "oct",
       "kid": "hack",
       "k": "ZmFrZV9zZWNyZXRfa2V5",
-      "alg": "HS256"
+      "alg": "HS256",
+      "use": "sig"
     }
   ]
 }
